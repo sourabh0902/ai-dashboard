@@ -30,8 +30,8 @@ To get started with the project, follow these steps:
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/ai-insights-dashboard.git
-cd ai-insights-dashboard
+git clone https://github.com/yourusername/ai-dashboard.git
+cd AI Dashboard
 ```
 
 2. **Install dependencies**:
